@@ -16,11 +16,11 @@ IMPLEMENTATION
 -----------
 
 Implementation details:
-* In 'init.js' file create custom functions.
-  
+* In 'app.js' file create custom functions.
+
 
 LAUNCH
 ------
 
 To launch project please type on Console:
-* node init.js
+* node app.js
